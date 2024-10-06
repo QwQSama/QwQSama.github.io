@@ -53,3 +53,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+# Add the custom CSS here
+params:
+  customCSS:
+    - css/custom.css

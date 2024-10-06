@@ -47,10 +47,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: '/uploads/H_Model.png'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: '/uploads/H_Model.png'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 projects: []
