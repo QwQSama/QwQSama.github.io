@@ -100,25 +100,28 @@ work:
 
 
 skills:
-  - name: Programming Languages
+  - name: Programming 
     items:
-      - name: Python
+      - name: Python, C++, C
         description: ''
         percent: 90
-      - name: C++
-        description: ''
-        percent: 80
-      - name: C
-        description: ''
-        percent: 70
-  - name: Machine Learning Tools
-    items:
       - name: TensorFlow
         description: ''
         percent: 85
       - name: PyTorch
         description: ''
         percent: 80
+  - name: Hobbies
+    items:
+      - name: The game of Go
+        description: ''
+        percent: 90
+      - name: Hiking
+        description: ''
+        percent: 60
+      - name: Swimming
+        description: ''
+        percent: 60
 
 languages:
   - name: Chinese

@@ -6,25 +6,25 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: emerald  # Keep this if you like the emerald theme; feel free to change the color
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Wenqing Qu'  # Your name as the site owner
+    description: 'Wenqing Qu - AI Researcher specializing in Computer Vision. Explore my projects, research, and publications.'  # Update with a brief description of your expertise and site content
+    twitter: ''  # Leave this empty if you don't have a Twitter profile, or update with your username if applicable
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
+    google_analytics: ''  # Add your Google Analytics ID if you plan to use it
+    baidu_tongji: ''  # If you're targeting China, you can add Baidu Tongji ID
+    plausible: ''  # For Plausible Analytics (privacy-focused)
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
-    baidu: ''
+    google: ''  # Add Google site verification code here if needed
+    baidu: ''  # Add Baidu site verification code here if needed
 
 # Site header
 header:
@@ -32,29 +32,29 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: true  # Keep the search bar if needed; remove if unnecessary
     show_theme_chooser: true
     logo:
-      text: "Wenqing Qu"
+      text: "Wenqing Qu"  # Your name or logo text in the navbar
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Wenqing Qu. This work is licensed under {license}'  # Your name for copyright
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
-      allow_commercial: false
+      allow_commercial: false  # Keep this true if you don’t allow commercial use of your work
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2, 2006'  # You can update the date format if needed
   time_format: '3:04 PM'
 
 # Site features
 features:
   math:
-    enable: false
+    enable: false  # Set this to true if your site uses math notation
   privacy_pack:
-    enable: false
+    enable: false  # You can enable this if you want to prioritize user privacy (for GDPR compliance)
