@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://QwQSama.github.io/publication/</link>
+      <atom:link href="https://QwQSama.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://QwQSama.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://QwQSama.github.io/publication/</link>
     </image>
     
     <item>
       <title>Multiscale modeling of granular materials using mesoscale DEM and machine learning approaches</title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>https://QwQSama.github.io/publication/preprint/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
+      <guid>https://QwQSama.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;This paper has been accepted for oral presentation at the IS-Grenoble 2024 conference, taking place from September 23-27, 2024. The final publication will be available in the IOP: Earth and Environmental Science conference series.&lt;/p&gt;
 </description>
     </item>
